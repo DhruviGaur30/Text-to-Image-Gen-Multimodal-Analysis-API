@@ -1,9 +1,9 @@
 fastapi
+pytest
 uvicorn
 torch
 diffusers
 transformers
-opencv-python
 pillow
-numpy
-pytest
+python-dotenv
+git+https://github.com/openai/CLIP.git
