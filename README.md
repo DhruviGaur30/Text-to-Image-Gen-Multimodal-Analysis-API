@@ -224,27 +224,3 @@ This project prioritizes:
 All architectural decisions were made to reflect **real-world production systems**, not notebooks or demo scripts.
 
 ---
-
-## 📌 Final Notes
-
-This repository represents a **fully functional multimodal AI system**, not just a model demo.
-
-It demonstrates:
-
-* Systems thinking
-* API design
-* ML model orchestration
-* Software engineering best practices
-
----
-**Author:** *Dhruvi Gaur*
----
-
-If you want, next I can:
-
-* Add a **Dockerfile**
-* Prepare a **submission checklist**
-* Review the README like a hiring manager
-* Help you write a **final submission message**
-
-Just tell me 👌
